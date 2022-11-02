@@ -1,0 +1,36 @@
+{
+    "tank-name": "Tank-1",
+    "tankStock": [
+        {
+            "size": 8.199999809265137,
+            "name": "Fish1",
+            "aggression level": "mid",
+            "water temp": "t"
+        },
+        {
+            "size": 6.420000076293945,
+            "name": "Fish3",
+            "aggression level": "mid",
+            "water temp": "t"
+        },
+        {
+            "size": 6.900000095367432,
+            "name": "Ancient Koi of wisdom",
+            "aggression level": "mid",
+            "water temp": "t"
+        },
+        {
+            "size": 2,
+            "name": "fish4",
+            "aggression level": "mid",
+            "water temp": "t"
+        },
+        {
+            "size": 5.400000095367432,
+            "name": "boi",
+            "aggression level": "mid",
+            "water temp": "t"
+        }
+    ],
+    "tank-capacity": 50
+}

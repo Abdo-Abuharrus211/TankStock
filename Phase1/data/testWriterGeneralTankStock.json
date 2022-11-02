@@ -1,0 +1,18 @@
+{
+    "tank-name": "Tank#1",
+    "tankStock": [
+        {
+            "size": 3.2,
+            "name": "betta",
+            "aggression level": "low",
+            "water temp": "t"
+        },
+        {
+            "size": 5.4,
+            "name": "ram",
+            "aggression level": "low",
+            "water temp": "t"
+        }
+    ],
+    "tank-capacity": 2
+}
