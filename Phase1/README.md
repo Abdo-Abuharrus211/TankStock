@@ -1,13 +1,13 @@
 
 #*SWIM ALONG?*
 
-###The Aquarium Fish Compatibility Program
+### The Aquarium Fish Compatibility Program
 
-- ##What Is It?
+- ## What Is It?
 It's my 2021 CPSC210 term project and my first ever personal JAVA 
 project!
 
-- ##What Does It Do?
+- ## What Does It Do?
 It's a simple program that takes in certain values entered by the user such as:
 - fish type(species)
 - tank type (cold-water or tropic).
